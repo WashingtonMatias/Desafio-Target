@@ -1,0 +1,36 @@
+D:\TesteTarget\TesteTarget\TesteTarget\bin\Debug\net5.0-windows\DesafioTarget.exe
+D:\TesteTarget\TesteTarget\TesteTarget\bin\Debug\net5.0-windows\DesafioTarget.deps.json
+D:\TesteTarget\TesteTarget\TesteTarget\bin\Debug\net5.0-windows\DesafioTarget.runtimeconfig.json
+D:\TesteTarget\TesteTarget\TesteTarget\bin\Debug\net5.0-windows\DesafioTarget.runtimeconfig.dev.json
+D:\TesteTarget\TesteTarget\TesteTarget\bin\Debug\net5.0-windows\DesafioTarget.dll
+D:\TesteTarget\TesteTarget\TesteTarget\bin\Debug\net5.0-windows\DesafioTarget.pdb
+D:\TesteTarget\TesteTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.csproj.AssemblyReference.cache
+D:\TesteTarget\TesteTarget\TesteTarget\obj\Debug\net5.0-windows\TesteTarget.Form1.resources
+D:\TesteTarget\TesteTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.csproj.GenerateResource.cache
+D:\TesteTarget\TesteTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.GeneratedMSBuildEditorConfig.editorconfig
+D:\TesteTarget\TesteTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.AssemblyInfoInputs.cache
+D:\TesteTarget\TesteTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.AssemblyInfo.cs
+D:\TesteTarget\TesteTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.csproj.CoreCompileInputs.cache
+D:\TesteTarget\TesteTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.dll
+D:\TesteTarget\TesteTarget\TesteTarget\obj\Debug\net5.0-windows\refint\DesafioTarget.dll
+D:\TesteTarget\TesteTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.pdb
+D:\TesteTarget\TesteTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.genruntimeconfig.cache
+D:\TesteTarget\TesteTarget\TesteTarget\obj\Debug\net5.0-windows\ref\DesafioTarget.dll
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\bin\Debug\net5.0-windows\DesafioTarget.exe
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\bin\Debug\net5.0-windows\DesafioTarget.deps.json
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\bin\Debug\net5.0-windows\DesafioTarget.runtimeconfig.json
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\bin\Debug\net5.0-windows\DesafioTarget.runtimeconfig.dev.json
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\bin\Debug\net5.0-windows\DesafioTarget.dll
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\bin\Debug\net5.0-windows\ref\DesafioTarget.dll
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\bin\Debug\net5.0-windows\DesafioTarget.pdb
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.csproj.AssemblyReference.cache
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\obj\Debug\net5.0-windows\TesteTarget.Form1.resources
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.csproj.GenerateResource.cache
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.AssemblyInfoInputs.cache
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.AssemblyInfo.cs
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.csproj.CoreCompileInputs.cache
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.dll
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\obj\Debug\net5.0-windows\ref\DesafioTarget.dll
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.pdb
+C:\Users\Washington\Documents\Desafio Target\DesafioTarget\TesteTarget\obj\Debug\net5.0-windows\DesafioTarget.genruntimeconfig.cache
